@@ -1,0 +1,25 @@
+.tag__info {
+	background: #f6f6f6;
+	padding: 15px;
+	margin-bottom: 10px
+}
+
+.xcspace-tag-info-thumb {
+	margin-right: 15px
+}
+
+.xcspace-tag-info-title {
+	margin-top: 0;
+	margin-right: 15px;
+	vertical-align: middle
+}
+
+.xcspace-tag-info-total {
+	display: inline-block
+}
+
+.xcspace-tag-info-desc {
+	color: #666;
+	margin-top: 15px;
+	margin-bottom: 0
+}

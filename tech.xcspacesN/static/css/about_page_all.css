@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.about-intro {
+	padding: 45px 15px 50px;
+	/*background: #348dd9 url(../img/info-bg.png) no-repeat center bottom;*/
+	background: #247ECA;
+	background-size: auto 106px;
+	text-align: center;
+	color: #fff;
+	font-size: 18px
+}
+
+.about-intro h1 {
+	margin: 0 0 25px
+}
+
+.about-nav {
+	padding: 0 15px;
+	background: #f3f3f3;
+	text-align: center;
+	font-size: 16px
+}
+
+.about-nav a {
+	display: inline-block;
+	margin: 0 5px;
+	border-bottom: 2px solid trasparent;
+	width: 120px;
+	height: 44px;
+	line-height: 44px;
+	color: #333
+}
+
+.about-nav a:hover {
+	border-bottom: 2px solid #ddd;
+	text-decoration: none
+}
+
+.about-nav a.active {
+	border-bottom: 2px solid #348dd9
+}
